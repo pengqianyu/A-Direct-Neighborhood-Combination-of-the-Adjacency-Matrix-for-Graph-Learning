@@ -26,6 +26,7 @@ Neighborhood Combination of the Adjacency Matrix for Graph Learning] based on se
 
 * **[CHEBNET](https://github.com/bknyaz/graph_nn)** Boris Knyazev *et al.*: [Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules](https://arxiv.org/abs/1811.09595) (NipsW-2018)
 
+# Please Go to Each (s)Model to Run Each Experiment.
 
 # Stay Tune for More Experiments.
 # Experiment No1:
