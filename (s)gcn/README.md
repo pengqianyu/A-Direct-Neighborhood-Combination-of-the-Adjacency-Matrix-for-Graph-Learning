@@ -21,7 +21,11 @@ and run
 python main.py
 ```
 
-Default parameters are not the best performing-hyper-parameters. Hyper-parameters need to be specified through the commandline arguments. Please refer to the baseline paper * **[GIN](https://github.com/weihua916/powerful-gnns)** from Xu *et al.*: [Representation learning on graphs: Methods and applications](https://arxiv.org/abs/1810.00826) (ICLR-2019) for the details of how we set the hyper-parameters.
+Default parameters are not the best performing-hyper-parameters. Hyper-parameters need to be specified through the commandline arguments. Please refer to the baseline paper 
+
+* **[GIN](https://github.com/weihua916/powerful-gnns)** from Xu *et al.*: [Representation learning on graphs: Methods and applications](https://arxiv.org/abs/1810.00826) (ICLR-2019) 
+
+for the details of how we set the hyper-parameters.
 
 Type
 
