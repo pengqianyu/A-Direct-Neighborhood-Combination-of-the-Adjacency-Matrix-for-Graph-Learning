@@ -11,10 +11,11 @@ python graph_unet.py --model mgcn  # to run (s)Multigraph GCN
 python graph_unet.py --model mgcn -K 2  # to run (s)Multigraph ChebNet with filter scale K = 2
 ```
 
+
+```bash
 # Experiment No7
 # Examples
 # no use -c flag
-```bash
 ```python graph_unet.py -D ENZYMES -f 128,128,128 --n_hidden 256 --lr 0.0005 --epochs 100 --lr_decay_step 150 -g
 
 
