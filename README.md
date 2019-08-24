@@ -49,26 +49,26 @@ Graph Link Prediction.
 <p align="left"><img width="50%" src="figs/table5.png"/></p>
 <p align="left"><img width="50%" src="figs/table6.png"/></p>
 
-# Experiemtn No6:
+# Experiement No6:
 Edge Generation&Graph Classification.
 <p align="left"><img width="50%" src="figs/table7.png"/></p>
 
-# Experiemtn No7:
+# Experiement No7:
 Graph Classification with node attribute.
 <p align="left"><img width="50%" src="figs/table8.png"/></p>
 
-# Experiemtn No8:
+# Experiement No8:
 Graph Classification in Comparison with GCN,MGCN,MGCNK.
 <p align="left"><img width="50%" src="figs/table9.png"/></p>
 
-# Experiemtn No9:
+# Experiement No9:
 Supervised Graph Classification in Comparison with two transformation forms and two baseline models.
 <p align="left"><img width="50%" src="figs/table10.png"/></p>
 
-# Experiemtn No10:
+# Experiement No10:
 Supervised Graph Classification for Three Datasets Comparing Mixhop and (s)gmnn.
 <p align="left"><img width="50%" src="figs/table11.png"/></p>
 
-# Experiemtn No11:
+# Experiement No11:
 Supervised Graph Classification in Comparison with state-of-the-art models on 13 Datasets.
 <p align="left"><img width="50%" src="figs/table12.png"/></p>
