@@ -24,7 +24,7 @@ Neighborhood Combination of the Adjacency Matrix for Graph Learning] based on se
 
 * **[MGCNK](https://github.com/bknyaz/graph_nn)** Max Welling *et al.*: [Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907) (ICLR-2017)
 
-* **[CHEBNET](https://github.com/bknyaz/graph_nn)** Boris Knyazev *et al.*: [Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules](https://arxiv.org/abs/1811.09595 (NipsW-2018)
+* **[CHEBNET](https://github.com/bknyaz/graph_nn)** Boris Knyazev *et al.*: [Spectral Multigraph Networks for Discovering and Fusing Relationships in Molecules](https://arxiv.org/abs/1811.09595) (NipsW-2018)
 
 
 # Stay Tune for More Experiments.
