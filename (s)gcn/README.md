@@ -25,7 +25,7 @@ Default parameters are not the best performing-hyper-parameters. Hyper-parameter
 
 * **[GIN](https://github.com/weihua916/powerful-gnns)** from Xu *et al.*: [Representation learning on graphs: Methods and applications](https://arxiv.org/abs/1810.00826) (ICLR-2019) 
 
-for the details of how we set the hyper-parameters.
+for the details of how the hyper-parameters is set.
 
 Type
 
