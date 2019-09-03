@@ -1,10 +1,7 @@
 # First and Second Neighborhood Combination of Adjacency Matrix for Graph Learning
 
 ## Overview
-A easily implemented neighborhood combination for common graph learning including supervised&semi-supervised graph classification,
-graph link prediction, graph edge generation$classification. The proposed approach improve the performance of several graph models,
-such as GCN, GIN,LDS-GNN,GMNN,PWL,GRAPH_Unet, Graphite, VGAE, MGCNK, CHEBNET and etc al. It's an official implementation of the Paper[A Direct
-Neighborhood Combination of the Adjacency Matrix for Graph Learning] based on several graph model implementation such as
+This repo contains the codes for experiments in the paper 'First and Second Neighborhood Combination of Adjacency Matrix for Graph Learning'. In the paper, an easily implemented neighborhood combination method for graph learning including supervised/semi-supervised graph classification, graph link prediction, graph edge generation and classification was proposed. The proposed approach improves the performance of several graph models, such as GCN, GIN,LDS-GNN,GMNN,PWL,GRAPH_Unet, Graphite, VGAE, MGCNK, CHEBNET and etc al. 
 
 * **[GCN](https://github.com/weihua916/powerful-gnns)** from Xu *et al.*: [Representation learning on graphs: Methods and applications](https://arxiv.org/abs/1709.05584) (2017)
 
