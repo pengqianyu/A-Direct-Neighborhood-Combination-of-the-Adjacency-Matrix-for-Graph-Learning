@@ -1,4 +1,4 @@
-# A Direct Neighborhood Combination of the Adjacency Matrix for Graph Learning
+# First and Second Neighborhood Combination of Adjacency Matrix for Graph Learning
 
 ## Overview
 A easily implemented neighborhood combination for common graph learning including supervised&semi-supervised graph classification,
